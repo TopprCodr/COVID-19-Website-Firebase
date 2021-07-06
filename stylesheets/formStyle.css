@@ -189,6 +189,14 @@ form{
   outline: none;
   overflow: hidden;
 }
+/* class for styling for caption of radio buttons */
+.travel{
+  margin-left:25px;
+  margin-top:20px;
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+}
 /* specific styling(id) for individual form elements(input) */
 #travel{
   margin-left: 25px;
